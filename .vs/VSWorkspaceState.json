@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\HealthCheck"
   ],
-  "SelectedNode": "\\HealthCheck.sln",
+  "SelectedNode": "\\HealthCheck\\karma.conf.js",
   "PreviewInSolutionExplorer": false
 }
