@@ -1,1 +1,1 @@
-# HealthCheckAngularDotnet
+# Hello, this is a Health Check application built on Angular@13 and Dotnet 6.
